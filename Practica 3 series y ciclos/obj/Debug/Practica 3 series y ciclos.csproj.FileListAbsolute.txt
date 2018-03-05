@@ -1,0 +1,10 @@
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\Practica 3 series y ciclos\Practica 3 series y ciclos\obj\Debug\Practica 3 series y ciclos.csprojResolveAssemblyReference.cache
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\Practica 3 series y ciclos\Practica 3 series y ciclos\obj\Debug\Practica_3_series_y_ciclos.Form1.resources
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\Practica 3 series y ciclos\Practica 3 series y ciclos\obj\Debug\Practica_3_series_y_ciclos.Properties.Resources.resources
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\Practica 3 series y ciclos\Practica 3 series y ciclos\obj\Debug\Practica 3 series y ciclos.csproj.GenerateResource.Cache
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\Practica 3 series y ciclos\Practica 3 series y ciclos\obj\Debug\Practica 3 series y ciclos.csproj.CoreCompileInputs.cache
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\Practica 3 series y ciclos\Practica 3 series y ciclos\bin\Debug\Practica 3 series y ciclos.exe.config
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\Practica 3 series y ciclos\Practica 3 series y ciclos\bin\Debug\Practica 3 series y ciclos.exe
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\Practica 3 series y ciclos\Practica 3 series y ciclos\bin\Debug\Practica 3 series y ciclos.pdb
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\Practica 3 series y ciclos\Practica 3 series y ciclos\obj\Debug\Practica 3 series y ciclos.exe
+C:\Users\girom\Documents\Visual Studio 2017\Projects\4ok\1a parcial\Practica 3 series y ciclos\Practica 3 series y ciclos\obj\Debug\Practica 3 series y ciclos.pdb
