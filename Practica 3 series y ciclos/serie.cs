@@ -8,6 +8,8 @@ namespace Practica_3_series_y_ciclos
         private int _valorDex;
         private double _suma;
 
+        const double radianes = Math.PI / 180.00;
+
         public int numRepeticiones
         { get { return _numRepeticiones; } }
 
@@ -52,6 +54,7 @@ namespace Practica_3_series_y_ciclos
             }
             return suma;
         }
+        
 
         public double serieSeno(int x, int repeticiones)
         {
@@ -60,14 +63,14 @@ namespace Practica_3_series_y_ciclos
             {
                 if ((posicion % 2) == 0)
                 {
-                    suma -= elevarPotencia(x, (posicion*2)-1) / factorial((posicion * 2) - 1);
+                    _suma -= elevarPotencia(x, (posicion*2)-1) / factorial((posicion * 2) - 1);
                 }
                 else
                 {
-                    suma += elevarPotencia(x, (posicion * 2) - 1) / factorial((posicion * 2) - 1);
+                    _suma += elevarPotencia(x, (posicion * 2) - 1) / factorial((posicion * 2) - 1);
                 }
             }
-            return suma;
+            return _suma * radianes;
         }
 
         public double serieCoseno(int x, int repeticiones)
@@ -84,7 +87,7 @@ namespace Practica_3_series_y_ciclos
                     _suma -= elevarPotencia(x, posicion*2) / factorial(posicion*2);
                 }
             }
-            return _suma;
+            return _suma  * radianes;
         }
 
     }
